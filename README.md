@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# Partner Contact
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/partner-contact&target_branch=16.0)
 [![Pre-commit Status](https://github.com/OCA/partner-contact/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/partner-contact/actions/workflows/pre-commit.yml?query=branch%3A16.0)
 [![Build Status](https://github.com/OCA/partner-contact/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/partner-contact/actions/workflows/test.yml?query=branch%3A16.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/partner-contact-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/partner-contact-16-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# Partner Contact
 
 Contact-related odoo addons.
 
@@ -82,6 +83,7 @@ addon | version | maintainers | summary
 [partner_industry_parent](partner_industry_parent/) | 16.0.1.0.0 |  | This module add a parent relation to the partner industry
 [partner_industry_secondary](partner_industry_secondary/) | 16.0.1.1.0 |  | Add secondary partner industries
 [partner_interest_group](partner_interest_group/) | 16.0.1.2.0 | <a href='https://github.com/victor-champonnois'><img src='https://github.com/victor-champonnois.png' width='32' height='32' style='border-radius:50%;' alt='victor-champonnois'/></a> | Add Interest Group to Partners
+[partner_iterative_archive](partner_iterative_archive/) | 16.0.1.0.0 |  | Archive all contacts when parent is archived
 [partner_label](partner_label/) | 16.0.1.0.0 |  | Print partner labels
 [partner_lastname_uppercase](partner_lastname_uppercase/) | 16.0.1.0.1 |  | Uppercases the the last names of partners
 [partner_manual_rank](partner_manual_rank/) | 16.0.1.1.2 | <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> <a href='https://github.com/frahikLV'><img src='https://github.com/frahikLV.png' width='32' height='32' style='border-radius:50%;' alt='frahikLV'/></a> | Be able to manually flag partners as customer or supplier.
@@ -102,6 +104,7 @@ addon | version | maintainers | summary
 [partner_shipping_policy](partner_shipping_policy/) | 16.0.1.0.0 |  | Define shipping policy at partners level.
 [partner_stage](partner_stage/) | 16.0.1.0.1 | <a href='https://github.com/dreispt'><img src='https://github.com/dreispt.png' width='32' height='32' style='border-radius:50%;' alt='dreispt'/></a> | Add lifecycle Stages to Partners
 [partner_store](partner_store/) | 16.0.1.0.0 | <a href='https://github.com/wouitmil'><img src='https://github.com/wouitmil.png' width='32' height='32' style='border-radius:50%;' alt='wouitmil'/></a> | Add store type to Partners
+[partner_street_number](partner_street_number/) | 16.0.1.0.0 | <a href='https://github.com/hbrunn'><img src='https://github.com/hbrunn.png' width='32' height='32' style='border-radius:50%;' alt='hbrunn'/></a> | Allows to customize partner street number parsing and formatting
 [partner_subject_to_vat](partner_subject_to_vat/) | 16.0.1.0.0 | <a href='https://github.com/victor-champonnois'><img src='https://github.com/victor-champonnois.png' width='32' height='32' style='border-radius:50%;' alt='victor-champonnois'/></a> | Record whether a company is subject to VAT.
 [partner_tier_validation](partner_tier_validation/) | 16.0.1.0.1 | <a href='https://github.com/dreispt'><img src='https://github.com/dreispt.png' width='32' height='32' style='border-radius:50%;' alt='dreispt'/></a> | Support a tier validation process for Contacts
 [partner_tz](partner_tz/) | 16.0.1.0.0 |  | Remove partner timezone default value and display on form
