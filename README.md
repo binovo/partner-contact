@@ -65,6 +65,7 @@ addon | version | maintainers | summary
 [partner_contact_role](partner_contact_role/) | 16.0.1.0.0 |  | Add roles to partners.
 [partner_contact_tags_in_popup](partner_contact_tags_in_popup/) | 16.0.1.0.0 | <a href='https://github.com/carmenbianca'><img src='https://github.com/carmenbianca.png' width='32' height='32' style='border-radius:50%;' alt='carmenbianca'/></a> | Display a contact's tags in the 'Contacts & Addresses' pop-up form view.
 [partner_contact_type_end_user](partner_contact_type_end_user/) | 16.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | Adds a new contact type 'End User'
+[partner_country_lang](partner_country_lang/) | 16.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Partner language according country
 [partner_country_state_required](partner_country_state_required/) | 16.0.1.0.0 |  | Partner Country State Required
 [partner_deduplicate_acl](partner_deduplicate_acl/) | 16.0.1.0.1 |  | Contact deduplication with fine-grained permission control
 [partner_deduplicate_by_ref](partner_deduplicate_by_ref/) | 16.0.1.0.0 |  | Deduplicate Contacts by reference
@@ -77,12 +78,12 @@ addon | version | maintainers | summary
 [partner_employee_quantity](partner_employee_quantity/) | 16.0.1.0.1 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/edlopen'><img src='https://github.com/edlopen.png' width='32' height='32' style='border-radius:50%;' alt='edlopen'/></a> | Know how many employees a partner has
 [partner_external_map](partner_external_map/) | 16.0.1.0.0 |  | Add Map and Map Routing buttons on partner form to open GMaps, OSM, Bing and others
 [partner_fax](partner_fax/) | 16.0.1.0.0 |  | Add fax number on partner
-[partner_firstname](partner_firstname/) | 16.0.1.0.5 |  | Split first name and last name for non company partners
+[partner_firstname](partner_firstname/) | 16.0.1.0.6 |  | Split first name and last name for non company partners
 [partner_identification](partner_identification/) | 16.0.1.0.3 |  | Partner Identification Numbers
 [partner_identification_eori](partner_identification_eori/) | 16.0.1.0.0 |  | This addon extends "Partner Identification Numbers" to provide a number category for EORI Number
 [partner_identification_gln](partner_identification_gln/) | 16.0.1.0.1 |  | This addon extends "Partner Identification Numbers" to provide a number category for GLN registration
 [partner_industry_parent](partner_industry_parent/) | 16.0.1.0.0 |  | This module add a parent relation to the partner industry
-[partner_industry_secondary](partner_industry_secondary/) | 16.0.1.1.0 |  | Add secondary partner industries
+[partner_industry_secondary](partner_industry_secondary/) | 16.0.1.1.1 |  | Add secondary partner industries
 [partner_interest_group](partner_interest_group/) | 16.0.1.2.0 | <a href='https://github.com/victor-champonnois'><img src='https://github.com/victor-champonnois.png' width='32' height='32' style='border-radius:50%;' alt='victor-champonnois'/></a> | Add Interest Group to Partners
 [partner_iterative_archive](partner_iterative_archive/) | 16.0.1.0.0 |  | Archive all contacts when parent is archived
 [partner_label](partner_label/) | 16.0.1.0.0 |  | Print partner labels
